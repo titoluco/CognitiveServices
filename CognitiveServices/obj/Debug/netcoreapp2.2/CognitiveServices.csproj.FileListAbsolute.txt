@@ -1,0 +1,16 @@
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\CognitiveServices.deps.json
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\CognitiveServices.runtimeconfig.json
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\CognitiveServices.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\CognitiveServices.dll
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.2\CognitiveServices.pdb
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.RazorAssemblyInfo.cache
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.RazorAssemblyInfo.cs
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.RazorTargetAssemblyInfo.cache
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.dll
+C:\Users\Marcos\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.2\CognitiveServices.pdb
