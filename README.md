@@ -3,12 +3,12 @@ Objetivo:
 A partir da URL de uma imagem buscar no Bing links de pesquisa de vídeos associados aos objetos encontratos
 
 
-ComputerVisionKey: 
-1fcecedb50da456fbfba04cd4c213f09 (válido até 22/03/2020)
+ComputerVisionKey:<br>
+1fcecedb50da456fbfba04cd4c213f09 (válido até 22/03/2020)<br>
 ee05e7c95964440c81e4ec1b60355edd (válido até 26/03/2020)
 
-BingVideoSearchKey 
-7af75799876d487098d155c32d86ff54 (válido até 22/03/2020)
+BingVideoSearchKey <br>
+7af75799876d487098d155c32d86ff54 (válido até 22/03/2020)<br>
 c2fd17f95b92499d8cee4a3a26018cf4 (válido até 26/03/2020)
 
 
